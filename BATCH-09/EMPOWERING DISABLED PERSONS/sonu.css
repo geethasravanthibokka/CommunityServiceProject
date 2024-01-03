@@ -1,0 +1,138 @@
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 100%;
+    height: 400px;
+    padding: 30px 40px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.section-1{
+    height: 100vh;
+    background-image: url('a.webp');
+    background-attachment: fixed;
+    text-shadow:  0px 0px 5px rgb(41, 41, 41);
+
+    background-size: cover;
+}
+
+
+.section-2{
+    background:#ffffff;
+    font-size: larger;
+}
+
+.section-3{
+    height: 100vh;
+    color:black;
+    background-image: url('a.jpg');
+    text-shadow:  0px 0px 5px rgb(218, 215, 215);
+
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.section-4{
+    background:#ffffff;
+}
+
+.section-7{
+    height: 100vh;
+    background-image: url('v.png');
+    background-attachment: fixed;
+    background-size: cover;
+    align-items: center;
+}
+
+.section-8{
+    background:#ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(0, 0, 0);
+    position: relative;
+    left:-20px;
+
+}
+.section-9{
+    background:#ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(0, 0, 0);
+    position: relative;
+    left:-20px;
+
+}
+
+.section-12{
+    background:#646464;
+}
+.section-13{
+    height: 100vh;
+    color:rgb(169, 85, 85);
+    background-image: url('t1.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.section-14{
+    height: 100vh;
+    color:rgb(255, 255, 255);
+    background-image: url('x.jpeg');
+    text-shadow:  0px 0px 5px rgb(41, 41, 41);
+
+    background-attachment: fixed;
+    background-size: cover;
+}
+.section-41{
+    height: 100vh;
+    color:rgb(255, 255, 255);
+    background-image: url('s1.webp');
+    text-shadow:  0px 0px 5px rgb(41, 41, 41);
+
+    background-attachment: fixed;
+    background-size: cover;
+}
+.section-16{
+    height: 100vh;
+    background-image: url('8.webp');
+    background-attachment: fixed;
+    background-size: cover;
+    align-items: center;
+}
+
+.box pre{
+    color:black;
+    font-size: 32px;
+    margin-top: 180px;
+    align-items:center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box p1{
+    color:black;
+    font-size: 32px;
+        align-items:center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box h3{
+    font-size: 50px;
+    color:#000;
+    margin-top: 80px;
+
+}
+
+.box h4{
+    font-size: 50px;
+    text-shadow:  0px 0px 2px rgb(57, 57, 57);
+    color:#000;
+
+}
+
+.pa{
+    font-size: 144%;
+}
